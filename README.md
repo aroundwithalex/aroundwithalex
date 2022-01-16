@@ -4,35 +4,35 @@ My name is Alex Pope, and I'm a Software Engineer based in the United Kingdom. I
 
 I'm mainly a Python developer, but I am also familiar with a variety of other programming languages (C#, JavaScript et al).  I've also worked with numerous database systems (Postgres, Oracle) and am familar with other technologies such as Docker. 
 
-If you want to get in touch, feel free to send me a connection request on LinkedIn.
+If you want to get in touch, feel free to send me a connection request on [LinkedIn](https://www.linkedin.com/in/popealex/).
 
-# Languages & Technologies
+## Languages
+![](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white&color=560bad)
+![](https://img.shields.io/badge/JavaScript-green?style=for-the-badge&logo=javascript&logoColor=white&color=560bad)
+![](https://img.shields.io/badge/C%23-blueviolet?style=for-the-badge&logo=c-sharp&logoColor=white&color=560bad)
+![](https://img.shields.io/badge/SQL-blueviolet?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=560bad)
 
-## Programming Languages
-![](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white&color=3C99BA)
-![](https://img.shields.io/badge/JavaScript-green?style=for-the-badge&logo=javascript&logoColor=white&color=3C99BA)
-![](https://img.shields.io/badge/C%23-blueviolet?style=for-the-badge&logo=c-sharp&logoColor=white&color=3C99BA)
 
 ## Databases
-![](https://img.shields.io/badge/Postgres-blue?style=for-the-badge&logo=postgresql&logoColor=white&color=3C99BA)
-![](https://img.shields.io/badge/Oracle-blue?style=for-the-badge&logo=oracle&logoColor=white&color=3C99BA)
-![](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite&logoColor=white&color=3C99BA)
+![](https://img.shields.io/badge/Postgres-blue?style=for-the-badge&logo=postgresql&logoColor=white&color=560bad)
+![](https://img.shields.io/badge/Oracle-blue?style=for-the-badge&logo=oracle&logoColor=white&color=560bad)
+![](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite&logoColor=white&color=560bad)
 
 ## CI/CD and Cloud
-![](https://img.shields.io/badge/Jenkins-orange?style=for-the-badge&logo=jenkins&logoColor=white&color=3C99BA)
-![](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon&logoColor=white&color=3C99BA)
-![](https://img.shields.io/badge/Oracle%20Cloud-green?style=for-the-badge&logo=oracle&logoColor=white&color=3C99BA)
+![](https://img.shields.io/badge/Jenkins-orange?style=for-the-badge&logo=jenkins&logoColor=white&color=560bad)
+![](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=Amazon-AWS&logoColor=white&color=560bad)
+![](https://img.shields.io/badge/Oracle%20Cloud-green?style=for-the-badge&logo=oracle&logoColor=white&color=560bad)
 
 ## Miscellaneous
-![](https://img.shields.io/badge/Docker-brightgreen?style=for-the-badge&logo=docker&logoColor=white&color=3C99BA)
-![](https://img.shields.io/badge/Git-brightgreen?style=for-the-badge&logo=git&logoColor=white&color=3C99BA)
-![](https://img.shields.io/badge/Linux-brightgreen?style=for-the-badge&logo=linux&logoColor=white&color=3C99BA)
-![](https://img.shields.io/badge/MacOS-brightgreen?style=for-the-badge&logo=apple&logoColor=white&color=3C99BA)
-![](https://img.shields.io/badge/Bash-brightgreen?style=for-the-badge&logo=gnu-bash&logoColor=white&color=3C99BA)
-![](https://img.shields.io/badge/Zsh-brightgreen?style=for-the-badge&logo=gnu-bash&logoColor=white&color=3C99BA)
+![](https://img.shields.io/badge/Docker-brightgreen?style=for-the-badge&logo=docker&logoColor=white&color=560bad)
+![](https://img.shields.io/badge/Git-brightgreen?style=for-the-badge&logo=git&logoColor=white&color=560bad)
+![](https://img.shields.io/badge/Linux-brightgreen?style=for-the-badge&logo=linux&logoColor=white&color=560bad)
+![](https://img.shields.io/badge/MacOS-brightgreen?style=for-the-badge&logo=apple&logoColor=white&color=560bad)
+![](https://img.shields.io/badge/Bash-brightgreen?style=for-the-badge&logo=gnu-bash&logoColor=white&color=560bad)
+![](https://img.shields.io/badge/Zsh-brightgreen?style=for-the-badge&logo=gnu-bash&logoColor=white&color=560bad)
 
-# What I'm Exploring
+## What I'm Exploring
 
-![](https://img.shields.io/badge/Rust-brightgreen?style=for-the-badge&logo=rust&logoColor=white&color=3C99BA)
-![](https://img.shields.io/badge/React-brightgreen?style=for-the-badge&logo=react&logoColor=white&color=3C99BA)
-![](https://img.shields.io/badge/mongo-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white&color=3C99BA)
+![](https://img.shields.io/badge/Language-brightgreen?style=for-the-badge&logo=c&logoColor=white&color=560bad)
+![](https://img.shields.io/badge/React-brightgreen?style=for-the-badge&logo=react&logoColor=white&color=560bad)
+![](https://img.shields.io/badge/mongo-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white&color=560bad)
