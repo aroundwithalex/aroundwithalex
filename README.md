@@ -2,12 +2,12 @@
 
 My name is Alex Pope, and I'm a Software Engineer based in the United Kingdom. I currently work at [Elsevier](https://www.elsevier.com/en-gb), where I primarily focus on working with third-party APIs, building & maintaining databases and leveraging artificial intelligence to improve customer experience.
 
-I'm mainly a Python developer, but I am also familiar with a variety of other programming languages (C#, JavaScript et al).  I've also worked with numerous database systems (Postgres, Oracle) and am familar with other technologies such as Docker. 
+I'm mainly a Python developer, but I am also familiar with a variety of other programming languages (C#, JavaScript et al).  I've worked with numerous database systems (Postgres, Oracle, SQLite) and I also use other technologies such as Docker, Jenkins and Linux. See below for a more detailed breakdown of my experience.
 
 If you want to get in touch, feel free to send me a connection request on [LinkedIn](https://www.linkedin.com/in/popealex/).
 
 ## Languages
-![](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white&color=560bad)
+![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white&color=560bad)
 ![](https://img.shields.io/badge/JavaScript-green?style=for-the-badge&logo=javascript&logoColor=white&color=560bad)
 ![](https://img.shields.io/badge/C%23-blueviolet?style=for-the-badge&logo=c-sharp&logoColor=white&color=560bad)
 ![](https://img.shields.io/badge/SQL-blueviolet?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=560bad)
